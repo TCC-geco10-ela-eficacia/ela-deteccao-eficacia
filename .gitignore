@@ -1,0 +1,10 @@
+.idea/
+synthbuster/
+*.csv
+*.NEF
+modelos/
+*.pt
+*.npy
+*.json
+dados_brutos/
+dados_padronizados/
